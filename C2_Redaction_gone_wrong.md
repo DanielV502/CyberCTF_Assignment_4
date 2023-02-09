@@ -2,7 +2,7 @@
 
 ### 2. Challenge: Redaction gone wrong (Easy)
 
-* The challenge request to download a report and check for some critical data.
+* The challenge requests to download a report and check for some critical data.
 * The use of the tool “pdftotext” was usefull to manipulate the pdf contents on plain text.
 * The script help us to get the flag hidden on the document:
 
