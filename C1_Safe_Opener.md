@@ -2,7 +2,7 @@
 
 ### 1. Challenge: Safe Opener (Easy)
 
-* The challenge request to recover a lost key from a java program.
+* The challenge requests to recover a lost key from a java program.
 * Opening the “SafeOpener.java” file, gave us the row where the key is stored.
 
 ![R4_C1_1](https://user-images.githubusercontent.com/124681007/217743130-162be5e9-c44d-4f92-b096-6bcaffdc3b39.png)
