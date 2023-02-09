@@ -18,4 +18,8 @@
 
 * Type: **Web Exploitation**
 
+## [Challenge 5 - C5_FindAndFixMe-V3](C5_FindAndFixMe-V3.md)
+
+* Type: **Forensics / Reverse Engineering**
+
 > Thanks...
