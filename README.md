@@ -6,7 +6,7 @@
 
 * Type: **Reverse Engineering**
 
-## [Challenge 2 - C2_Redaction gone wrong](C2_Redaction gone wrong.md)
+## [Challenge 2 - C2_Redaction_gone_wrong](C2_Redaction_gone_wrong.md)
 
 * Type: **Forensics**
 
